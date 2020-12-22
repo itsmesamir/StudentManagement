@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement", "StudentManagement\StudentManagement.csproj", "{EFA282FE-14B2-4D05-8E4F-219E28ECC149}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "WindowsFormsApp4", "..\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe", "{CB5FB22E-EA73-4AFB-951E-634215A0A118}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Samir\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+		RemoteMachine = DESKTOP-5V2J2AC
+		StartingDirectory = C:\Users\Samir\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Debug|x86.Build.0 = Debug|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Release|x86.ActiveCfg = Release|Any CPU
+		{EFA282FE-14B2-4D05-8E4F-219E28ECC149}.Release|x86.Build.0 = Release|Any CPU
+		{CB5FB22E-EA73-4AFB-951E-634215A0A118}.Debug|Any CPU.ActiveCfg = Release|x86
+		{CB5FB22E-EA73-4AFB-951E-634215A0A118}.Debug|x86.ActiveCfg = Release|x86
+		{CB5FB22E-EA73-4AFB-951E-634215A0A118}.Release|Any CPU.ActiveCfg = Release|x86
+		{CB5FB22E-EA73-4AFB-951E-634215A0A118}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783D45F5-46B5-4156-A8DD-F247D5664C0A}
+	EndGlobalSection
+EndGlobal
